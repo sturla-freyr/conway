@@ -21,7 +21,7 @@ An implementation of Conway's Game of Life using Rust. This simulation creates a
    Follow the instructions on the [official Rust website](https://www.rust-lang.org/tools/install).
 
 2. **Clone the Repository**   
-git clone https://github.com/sturla-freyr/conway.git
+git clone https://github.com/sturla-freyr/conway.git   
 cd conway
 
 3. **Run the Game**   
