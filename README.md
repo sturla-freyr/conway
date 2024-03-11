@@ -24,5 +24,5 @@ An implementation of Conway's Game of Life using Rust. This simulation creates a
 git clone https://github.com/sturla-freyr/conway.git
 cd conway
 
-3. **Run the Game**
+3. **Run the Game**   
 cargo run
